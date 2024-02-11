@@ -1,0 +1,10 @@
+Horse
+Tiger
+Sheep
+Wolf
+Sloth
+Dog
+Cat
+Bat
+Deer
+Cow
